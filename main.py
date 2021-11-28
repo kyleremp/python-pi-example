@@ -1,9 +1,10 @@
 #!/usr/bin/python3.8
 # This is a sample Python script.
 def main(msg):
-    // Adding a different comment here.
-    // Print a message
-    // Yet another comment - enabling VCS
+    // No longer need comments
     print(msg)
+
+def secondary():
+    print("new function")
 
 main("Hiya turkey butt!")
