@@ -1,4 +1,7 @@
 #!/usr/bin/python3.8
 # This is a sample Python script.
+def main(msg):
+    print(msg)
 
-print("hello world")
+
+main("Hiya turkey butt!")
