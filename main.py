@@ -2,6 +2,7 @@
 # This is a sample Python script.
 def main(msg):
     // No longer need comments
+    // New branch comment
     print(msg)
 
 def secondary():
