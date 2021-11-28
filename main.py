@@ -3,6 +3,7 @@
 def main(msg):
     // Adding a different comment here.
     // Print a message
+    // Yet another comment - enabling VCS
     print(msg)
 
 main("Hiya turkey butt!")
